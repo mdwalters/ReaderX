@@ -1,22 +1,5 @@
-#app {
-    margin: 0;
-    font-weight: bold;
+#app, h1, h2, h3, h4, h5, h6, p {
     font-family: Helvetica, Arial, sans-serif;
-}
-
-.header {
-    width: 100vw;
-    padding: 10px;
-}
-
-.success {
-    background-color: #33cd5c;
-}
-
-.danger {
-    background-color: #ff4545;
-}
-
-.warning {
-    background-color: #ff7f36;
+    font-weight: 900;
+    margin: 0px;
 }

@@ -3,9 +3,5 @@
 </script>
 
 <template>
-    <div class="header warning">
-        <h3>Reader<span class="danger">X</span></h3>
-    </div>
-
     <RouterView/>
 </template>
